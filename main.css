@@ -1,16 +1,16 @@
 :root {
-    --primary: #EA40A4;
-    --business: #3A82EE;
-    --personal: var(--primary);
+    --primary: #FF0000;
+    --business: #FF0000;
+    --personal: #00FF00;
     --light: #eee;
     --grey: #888;
     --dark: #313154;
-    --danger: #ff5b57;
+    --danger: #800000;
 
     --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 
-    --business-glow: 0 px 0px 4px rgba(58, 130, 238, 0.75);
-    --personal-glow: 0 px 0px 4px rgba(234, 64, 164, 0.75);
+    --business-glow: 0 px 0px 4px #FF0000;
+    --personal-glow: 0 px 0px 4px #00FF00;
 }
 
 * {
